@@ -13,6 +13,6 @@ path = "lib.rs"
 
 [dependencies.ogg-sys]
 
-git = "https://github.com/pcwalton/ogg"
+git = "https://github.com/sindreij/ogg"
 branch = "servo"
 
